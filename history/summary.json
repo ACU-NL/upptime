@@ -4,7 +4,7 @@
     "url": "https://acu.nl",
     "icon": "https://icons.duckduckgo.com/ip3/acu.nl.ico",
     "slug": "acu-nl",
-    "status": "up",
+    "status": "down",
     "uptime": "99.75%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 766,
     "timeYear": 773,
     "dailyMinutesDown": {
+      "2025-05-26": 0,
       "2025-05-02": 17,
       "2025-04-06": 51,
       "2025-04-01": 117,
